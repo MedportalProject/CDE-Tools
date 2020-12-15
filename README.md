@@ -30,7 +30,7 @@ ps: **x86-office** run CDETools.xll, **x64-office** run CDETools64.xll
 
 ### Download and Installation
 
-you can see tools in ***CDE Tools x86 & x64*** folder, direct download and double click to use
+you can see tools in ***CDE Tools x86 & x64*** folder, direct download current folder and double click .xll(with .dll libary) document to use.
 
 
 
