@@ -2,7 +2,7 @@
 
 ### Introduction
 
-CDE Tools is a free-installation ontology term search  & annotation excel add-in, user can search terms information from BioPortal[1], MedPortal[2] and OLS[3] easy and quickly by CDE Tools, and direct inset in sheet, it base on ExcelDNA[4], user also can annotate term by this Tools.
+CDE Tools is a installation-free ontology term search  & annotation excel add-in, user can search terms information from BioPortal[1], MedPortal[2] and OLS[3] easy and quickly by CDE Tools, and direct inset in sheet, it base on ExcelDNA[4], user also can annotate term by this Tools.
 
 
 
@@ -20,7 +20,7 @@ c)  Windows 7 and above
 
 ### Usage
 
-free install and Double click
+installation-free and Double click
 
 ps: **x86-office** run CDETools.xll, **x64-office** run CDETools64.xll
 
