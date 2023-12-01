@@ -1,4 +1,4 @@
-<div align=center><img width="250" alt="CDE Logo" src="https://user-images.githubusercontent.com/69947683/145710263-e8fdc308-9384-467c-9c6b-087ba74c02bd.png"></div>
+![image](https://github.com/MedportalProject/CDE-Tools/assets/97814954/07e4a4f2-e524-4609-ba92-29aeecaceb7a)<div align=center><img width="250" alt="CDE Logo" src="https://user-images.githubusercontent.com/69947683/145710263-e8fdc308-9384-467c-9c6b-087ba74c02bd.png"></div>
 
 # CDE Tools: An easy-to-use Excel add-in for query ontology terminology
 <h1 align="center">
@@ -19,7 +19,7 @@
 
 ### Introduction
 
-CDE Tools is a installation-free ontology term search  & annotation excel add-in, user can search terms information from BioPortal[1], MedPortal[2] and OLS[3] easy and quickly by CDE Tools, and direct inset in sheet, it base on ExcelDNA[4], user also can annotate term by this Tools.
+CDE Tools is An easy-to-use Excel add-in for query terminology, common data elements(CDEs) and CRFs, user can search terms information from BioPortal[1], MedPortal[2] and OLS[3] easy and quickly by CDE Tools, and direct inset in sheet, it base on ExcelDNA[4], user also can annotate term by this Tools.
 
 
 
