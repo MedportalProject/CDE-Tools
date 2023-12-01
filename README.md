@@ -19,8 +19,7 @@
 
 ### Introduction
 
-CDE Tools is An easy-to-use Excel add-in for query terminology, common data elements(CDEs) and CRFs, user can search terms information from BioPortal[1], MedPortal[2] and OLS[3] easy and quickly by CDE Tools, and direct inset in sheet, it base on ExcelDNA[4], user also can annotate term by this Tools.
-
+CDE Tools is an easy-to-use Excel add-in for query terminology, common data elements (CDEs), and CRFs. Users can search terms from BioPortal [1], MedPortal [2], and OLS [3] and search CDEs and CRFs in the CDE Portal. easy and quickly by CDE Tools, and direct inset in sheet based on ExcelDNA [4].
 
 
 ### Pre-requisites
@@ -50,7 +49,7 @@ ps: **x86-office** run CDETools-32.xll, **x64-office** run CDETools-64.xll
 you can see tools in ***CDE Tools x86 & x64*** folder, direct download current folder and double click .xll(with .dll libary) document to use.
 
 ### 2023.09 update ###
-Add new functions: Search CDE and CRF in CDE Portal
+Add new functions: Search CDE and CRF in CDE Portal(https://cdeportal.bmicc.cn/)
 ### 2021.09 update ###
 Add new functions "Batch annotation", user can upload complete Excel file into CDE Tools and select col-name from Excel sheets, CDE Tools will automatic annotate. 
 
