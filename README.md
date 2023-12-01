@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/LICENSE-Apache%202.0-brightgreen" />
   </a>
 </h1>
-# README
+
+
 ## CDE Tools: An easy-to-use Excel add-in for query ontology terminology, CDEs and CRF.
 
 ### Introduction
