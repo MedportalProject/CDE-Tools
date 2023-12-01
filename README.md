@@ -49,6 +49,8 @@ ps: **x86-office** run CDETools-32.xll, **x64-office** run CDETools-64.xll
 
 you can see tools in ***CDE Tools x86 & x64*** folder, direct download current folder and double click .xll(with .dll libary) document to use.
 
+### 2023.09 update ###
+Add new functions: Search CDE and CRF in CDE Portal
 ### 2021.09 update ###
 Add new functions "Batch annotation", user can upload complete Excel file into CDE Tools and select col-name from Excel sheets, CDE Tools will automatic annotate. 
 
