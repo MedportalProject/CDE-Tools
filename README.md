@@ -1,6 +1,5 @@
+# CDE Tools: An easy-to-use Excel add-in for query ontology terminology, CDEs and CRF.
 ![image](https://github.com/MedportalProject/CDE-Tools/assets/97814954/07e4a4f2-e524-4609-ba92-29aeecaceb7a)<div align=center><img width="250" alt="CDE Logo" src="https://user-images.githubusercontent.com/69947683/145710263-e8fdc308-9384-467c-9c6b-087ba74c02bd.png"></div>
-
-# CDE Tools: An easy-to-use Excel add-in for query ontology terminology
 <h1 align="center">
   <a href="https://github.com/MedportalProject/CDE-Tools/releases/tag/r1">
     <img src="https://img.shields.io/badge/releases-v2.0-red" />
