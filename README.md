@@ -43,7 +43,11 @@ ps: **x86-office** run CDETools-32.xll, **x64-office** run CDETools-64.xll
 
 **you can see detail in CDE Tools manual or GIF**
 
+#### Search CRF
+![image](https://github.com/MedportalProject/CDE-Tools/blob/main/CDE%20Tools%20V3.1/Search%20CRF.gif)
 
+#### Search CDE and ontology terms
+![image](https://github.com/MedportalProject/CDE-Tools/blob/main/CDE%20Tools%20V3.1/Search%20CDE%20and%20Ontology%20Terms.gif)
 
 ### Download and Installation
 
