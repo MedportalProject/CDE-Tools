@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/MedportalProject/CDE-Tools/releases/tag/r1">
-    <img src="https://img.shields.io/badge/releases-v2.0-red" />
+    <img src="https://img.shields.io/badge/releases-v3.1-red" />
   </a>
   <a href="https://github.com/MedportalProject/CDE-Tools/blob/main/manual.pdf">
     <img src="https://img.shields.io/badge/docs-v1.0-yellow" />
