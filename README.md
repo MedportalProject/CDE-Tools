@@ -29,9 +29,9 @@ CDE Tools implementation requires:
 
 a) .NET 4.0 and above
 
-b) Office 2010 and above
+b) Office 2016 and above
 
-c)  Windows 7 and above
+c)  Windows 10 and above
 
 
 
